@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreenText</string>
+    <string name="intro">Hello there! GreenText is an app based community to share relatable stories with people of your interest.</string>
+    <string name="start">Start</string>
+</resources>

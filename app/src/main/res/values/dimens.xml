@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="half_dimen">8dp</dimen>
+    <dimen name="base_dimen">16dp</dimen>
+    <dimen name="medium_dimen">24dp</dimen>
+    <dimen name="double_dimen">32dp</dimen>
+
+
+    <!--    Fonts-->
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_base">14sp</dimen>
+    <dimen name="font_medium">18sp</dimen>
+    <dimen name="font_large">22sp</dimen>
+</resources>
